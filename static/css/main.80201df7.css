@@ -532,11 +532,23 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+.ml-1 {
+  margin-left: 0.25rem;
+}
+.mr-1 {
+  margin-right: 0.25rem;
+}
+.flex {
+  display: flex;
+}
 .table {
   display: table;
 }
 .table-auto {
   table-layout: auto;
+}
+.items-center {
+  align-items: center;
 }
 .rounded-16xl {
   border-radius: 1.25rem;
@@ -567,6 +579,9 @@ video {
 }
 .stroke-neutral-400 {
   stroke: #a3a3a3;
+}
+.stroke-primary-500 {
+  stroke: #ff5a1f;
 }
 .p-10 {
   padding: 2.5rem;
@@ -641,4 +656,4 @@ video {
 }
 
 
-/*# sourceMappingURL=main.73428e7f.css.map*/
+/*# sourceMappingURL=main.80201df7.css.map*/
